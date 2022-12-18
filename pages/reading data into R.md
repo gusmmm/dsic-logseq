@@ -1,0 +1,19 @@
+- #tidyverse version of a table is a #tibble
+	- the australian way saying table, I guess
+- data is usually stored in some form a table
+	- a spreadsheet
+	- a database
+- formats
+	- csv
+		- comma separated values
+		- simple spreadsheet with no formating
+		- a single table with rows and columns
+		- no worksheets
+		- no formulas
+- ## ways to import data
+	- in the files pane
+		- clicking on the file
+		- chose import data
+- # tydiverse
+	- [[read_csv]] function
+-

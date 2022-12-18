@@ -1,3 +1,4 @@
 - # data science
 	- [[R for health data science]]
+	- [[tidyverse skills for data science]]
 -

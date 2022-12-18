@@ -1,0 +1,6 @@
+- Comma-separated values (CSV) files allow us to store tabular data
+- CSVs are plain-text files
+- there are no workbooks or metadata
+- In the CSV format, the values of each column for each element in the data are separated by commas and each row is separated by a new line
+- it has a .csv extension in the file name
+- the first row of the file usually has the name of each column separated by comma
