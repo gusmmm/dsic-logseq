@@ -1,0 +1,5 @@
+- we can map aesthetics to it
+- mapping = aes(  ... )
+	- color =
+	- shape =
+	-

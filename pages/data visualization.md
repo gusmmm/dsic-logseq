@@ -6,7 +6,7 @@
 - get a glimpse or view of the data frame
 	- glimpse(penguins)
 	- view(penguins)
-- create a ggplot
+- [[create a ggplot]]
 	- it's created layer by layer
 	- it begins with the function ggplot()
 	- then add the data ggplot(data=penguins)
